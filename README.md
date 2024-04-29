@@ -37,7 +37,7 @@ Sou um entusiasta da segurança cibernética, apaixonado por desafios e soluçõ
 - waybackurls
 - subfinder
 
-[![daniel-de-lima0xa](https://github-readme-stats.vercel.app/api?username=igaaoo&theme=tokyonight)](https://github.com/daniel-de-lima0xa/)
+[![daniel-de-lima0xa](https://github-readme-stats.vercel.app/api?username=daniel-de-lima0x&theme=tokyonight)](https://github.com/daniel-de-lima0xa/)
 
 ## Contato:
 [![Linkedin: Daniel de LIma](https://img.shields.io/badge/-IgorNeves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-de-lima0xa/)](https://www.linkedin.com/in/daniel-de-lima0xa/)
