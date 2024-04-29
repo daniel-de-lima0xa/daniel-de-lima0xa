@@ -37,8 +37,7 @@ Sou um entusiasta da segurança cibernética, apaixonado por desafios e soluçõ
 - waybackurls
 - subfinder
 
-[![daniel-de-lima0xa](https://github-readme-stats.vercel.app/api?username=daniel-de-lima0x&theme=tokyonight)](https://github.com/daniel-de-lima0xa/)
-
+[![daniel-de-lima0xa](https://github-readme-stats.vercel.app/api?username=daniel-de-lima0xa&theme=tokyonight)](https://github.com/daniel-de-lima0xa/)
 
 ## Contato:
 
