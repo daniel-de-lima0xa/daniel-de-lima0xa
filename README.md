@@ -40,7 +40,7 @@ I am a cybersecurity enthusiast, passionate about challenges and innovative solu
 
 [![Daniel de Lima](https://github-readme-stats.vercel.app/api?username=daniel-de-lima0xa&theme=tokyonight)](https://github.com/daniel-de-lima0xa/)
 
-## Contact:
+## Contact: 
 
 [![Linkedin: Daniel de Lima](https://img.shields.io/badge/-daniel--de--lima0x-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-de-lima0xa/)](https://www.linkedin.com/in/daniel-de-lima0xa/)
 [![Gmail Badge](https://img.shields.io/badge/-daniellima.prof@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daniellima.prof@gmail.com)](mailto:daniellima.prof@gmail.com)
