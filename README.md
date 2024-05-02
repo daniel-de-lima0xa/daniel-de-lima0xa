@@ -38,7 +38,7 @@ I am a cybersecurity enthusiast, passionate about challenges and innovative solu
 [![waybackurls](https://img.shields.io/badge/waybackurls-🔍-FF9800?style=for-the-badge)](#)
 [![Subfinder](https://img.shields.io/badge/Subfinder-🔍-673AB7?style=for-the-badge)](#)
 
-[![Daniel de Lima](https://github-readme-stats.vercel.app/api?username=daniel-de-lima0xa&theme=tokyonight)](https://github.com/daniel-de-lima0xa/)
+[![Daniel de Lima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daniel-de-lima0xa&show_icons=true&theme=dark&count_private=true&custom_title=GitHub%20Stats&hide_border=true&hide_rank=true&line_height=24)](https://github.com/daniel-de-lima0xa/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-de-lima0xa&layout=compact&theme=dark&hide_border=true)](https://github.com/daniel-de-lima0xa/)
 
 ## Contact: 
 
